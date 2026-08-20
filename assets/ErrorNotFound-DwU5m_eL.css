@@ -1,0 +1,1 @@
+.error-page{background:var(--bg);color:var(--ink)}.error-page__inner{text-align:center}.error-page__code{font-family:var(--font-heading);color:var(--oak);margin:0;font-size:clamp(4rem,18vh,9rem);line-height:1}.error-page__message{color:var(--ink-soft);margin:.75rem 0 0;font-size:1.05rem}

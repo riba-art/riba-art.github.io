@@ -1,0 +1,1 @@
+import{t as e}from"./theme-Jp4d3nSw.js";var t=()=>{e()};export{t as default};
