@@ -1,0 +1,1 @@
+import{t as e}from"./theme-Chg4m5eg.js";var t=()=>{e()};export{t as default};
