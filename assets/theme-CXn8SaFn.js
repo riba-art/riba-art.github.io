@@ -1,0 +1,1 @@
+import{f as e}from"./index-DGcDmvC6.js";var t=`riba-theme`;function n(){let n=null;try{n=localStorage.getItem(t)}catch{}let r;return r=n===`dark`||n===`light`?n===`dark`:window.matchMedia?.(`(prefers-color-scheme: dark)`).matches===!0,e.set(r),r}function r(){let n=!e.isActive;e.set(n);try{localStorage.setItem(t,n?`dark`:`light`)}catch{}}export{r as n,n as t};
