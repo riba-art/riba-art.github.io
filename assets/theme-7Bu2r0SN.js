@@ -1,0 +1,1 @@
+import{t as e}from"./theme-CnmGd5jP.js";var t=()=>{e()};export{t as default};
